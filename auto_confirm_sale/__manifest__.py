@@ -12,6 +12,7 @@
     'data': [
         'data/scheduled_action.xml',
     ],
+    'images':'static/description/icon.png',
     'application': True,
     'installable': True,
 }
