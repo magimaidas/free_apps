@@ -5,6 +5,9 @@
     'license': 'LGPL-3',
     'author': 'Magimaidas',
     'website': 'https://www.linkedin.com/in/magimaidas/',
+    'category':'sales',
+    'price': 1,
+    'currency': 'EUR',
     'depends': [
         'sale_management',
         'sale',
