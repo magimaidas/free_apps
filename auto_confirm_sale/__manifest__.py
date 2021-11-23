@@ -6,8 +6,6 @@
     'author': 'Magimaidas',
     'website': 'https://www.linkedin.com/in/magimaidas/',
     'category':'sales',
-    'price': 10,
-    'currency': 'USD',
     'depends': [
         'sale_management',
         'sale',
